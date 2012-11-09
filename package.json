@@ -1,0 +1,23 @@
+{
+  "name": "jscoverage",
+  "version": "0.1.0",
+  "publishConfig":{"registry":"http://registry.eris-npm.com:5984"},
+  "description": "Grunt task that generates code coverage information for unit tests using jscoverage",
+  "main": "./jscoverage",
+  "author": {
+    "name": "Travis Hilterbrand",
+    "email": "thilterbrand@five9.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ErisJS/jscoverage.git"
+  },
+  "bugs": {
+    "url": "http://github.com/ErisJS/jscoverage/issues"
+  },
+  "dependencies": {
+  },
+  "engines": {
+    "node": ">= 0.8.0"
+  }
+}
